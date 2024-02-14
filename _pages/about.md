@@ -93,7 +93,7 @@ Representations.</span> <span style="font-size:95%"><em>(Acceptance rate=31%)</e
 * <span class="custom-button">ICLR'24</span><span style="color: DarkBlue;"> Mathcoder: Seamless code integration in llms for enhanced mathematical reasoning</span>\
 <span class="author">Ke Wang&#42;, Houxing Ren&#42;, Aojun Zhou&#42;, Zimu Lu&#42;, <span class="bold-black">Sichun Luo&#42;</span>, Weikang Shi&#42;, Renrui Zhang, Linqi Song, Mingjie Zhan, Hongsheng Li.</span> \
 <span style="font-size:95%">In Proceedings of The Twelfth International Conference on Learning
-Representations.</span> <span style="font-size:95%"><em>(Acceptance rate=31%)</em></span> <a href="https://openreview.net/pdf?id=z8TW0ttBPp" class="custom-button2">PDF</a>
+Representations.</span> <span style="font-size:95%"><em>(Acceptance rate=31%)</em></span> <a href="https://openreview.net/pdf?id=z8TW0ttBPp" class="custom-button2">PDF</a> <a href="https://github.com/mathllm/MathCoder" class="custom-button2">Code</a>
 * <span class="custom-button">CIKM'23</span><span style="color: DarkBlue;"> Improving Long-Tail Item Recommendation with Graph Augmentation</span>\
 <span style="color:DimGray; font-size:85%"><span style="color:black"><strong>Sichun Luo</strong></span>, Chen Ma, Yuanzhang Xiao, and Linqi Song.</span> \
 <span style="font-size:95%">In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management.</span> <span style="font-size:95%"><em>(Acceptance rate=25%)</em></span> <a href="https://dl.acm.org/doi/abs/10.1145/3583780.3614929" class="custom-button2">PDF</a>
@@ -102,7 +102,7 @@ Representations.</span> <span style="font-size:95%"><em>(Acceptance rate=31%)</e
 <span style="font-size:95%">In Proceedings of the 31st ACM International Conference on Information and Knowledge Management.</span> <a href="https://dl.acm.org/doi/abs/10.1145/3511808.3557354" class="custom-button2">PDF</a>
 * <a href="#" class="custom-button">CIKM'22</a><span style="color: DarkBlue;"> Personalized Federated Recommendation via Joint Representation Learning, User Clustering, and Model Adaptation</span>\
 <span style="color:DimGray; font-size:85%"><span style="color:black"><strong>Sichun Luo</strong></span>, Yuanzhang Xiao, and Linqi Song.</span>\
-<span style="font-size:95%">In Proceedings of the 31st ACM International Conference on Information and Knowledge Management.</span> <a href="https://dl.acm.org/doi/abs/10.1145/3511808.3557668" class="custom-button2">PDF</a>
+<span style="font-size:95%">In Proceedings of the 31st ACM International Conference on Information and Knowledge Management.</span> <a href="https://dl.acm.org/doi/abs/10.1145/3511808.3557668" class="custom-button2">PDF</a> <a href="https://github.com/sichunluo/PerFedRec" class="custom-button2">Code</a>
 
 
 
