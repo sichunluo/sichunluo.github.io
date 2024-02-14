@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -59,7 +59,20 @@ I am a year 3 PhD candidate in computer science at the City University of Hong K
     }
 </style>
 
-
+<style>
+    #clstr_globe {
+        width: 35%;
+        height: 35%;
+    }
+</style>
+<style>
+    .parent-container {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+</style>
 
 
 
@@ -115,4 +128,6 @@ Teaching Experience
 * Teaching Assistant, CS1302 Introduction to Computer Programming (Undergraduate), City University of Hong Kong (Spring 2022)
 * Teaching Assistant, CS2066 IT Professions and Societies (Undergraduate), City University of Hong Kong (Fall 2021)
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Ulwa58Bc2yqxXT8k8T_62QfwBCpZrYgh7bI3GotMJQ0"></script>
+<div class="parent-container">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Ulwa58Bc2yqxXT8k8T_62QfwBCpZrYgh7bI3GotMJQ0"></script>
+</div>
