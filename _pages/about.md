@@ -82,6 +82,7 @@ News
 * 03/2024, one paper is accepted by WWW 2024.
 * 02/2024, one paper is accepted by IEEE JSTSP.
 * 01/2024, two papers are accepted by ICLR 2024.
+* 12/2023, one paper is accepted by ICASSP 2024.
 * 08/2023, one paper is accepted by CIKM 2023.
 * 08/2022, two papers are accepted by CIKM 2022.
 
@@ -103,6 +104,9 @@ Representations.</span> <span style="font-size:95%"><em>(Acceptance rate=31%)</e
 <span class="author">Ke Wang&#42;, Houxing Ren&#42;, Aojun Zhou&#42;, Zimu Lu&#42;, <span class="bold-black">Sichun Luo&#42;</span>, Weikang Shi&#42;, Renrui Zhang, Linqi Song, Mingjie Zhan, Hongsheng Li.</span> \
 <span style="font-size:95%">In Proceedings of The Twelfth International Conference on Learning
 Representations.</span> <span style="font-size:95%"><em>(Acceptance rate=31%)</em></span> <a href="https://openreview.net/pdf?id=z8TW0ttBPp" class="custom-button2">PDF</a> <a href="https://github.com/mathllm/MathCoder" class="custom-button2">Code</a>
+* <span class="custom-button">ICASSP'24</span><span style="color: DarkBlue;"> Large Language Models Augmented Rating Prediction in Recommender System.</span>\
+<span style="color:DimGray; font-size:85%"><span style="color:black"><strong>Sichun Luo</strong></span>, Jiansheng Wang, Aojun Zhou, Li Ma, Linqi Song.</span> \
+<span style="font-size:95%">In Proceedings of the 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing.</span> <span style="font-size:95%"><em>Oral Presentation</em></span> <a href="https://github.com/sichunluo/LAMAR" class="custom-button2">Code</a>
 * <span class="custom-button">CIKM'23</span><span style="color: DarkBlue;"> Improving Long-Tail Item Recommendation with Graph Augmentation</span>\
 <span style="color:DimGray; font-size:85%"><span style="color:black"><strong>Sichun Luo</strong></span>, Chen Ma, Yuanzhang Xiao, and Linqi Song.</span> \
 <span style="font-size:95%">In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management.</span> <span style="font-size:95%"><em>(Acceptance rate=25%)</em></span> <a href="https://dl.acm.org/doi/abs/10.1145/3583780.3614929" class="custom-button2">PDF</a>
