@@ -93,7 +93,7 @@ Publications
 
 * <span class="custom-button">WWW'24</span><span style="color: DarkBlue;"> Can LLM Substitute Human Labeling? A Case Study of Fine-grained Chinese Address Entity Recognition Dataset for UAV Delivery</span>\
 <span class="author">Yuxuan Yao&#42;, <span class="bold-black">Sichun Luo&#42;</span>, Haohan Zhao&#42;, Guanzhi Deng, Linqi Song.</span> \
-<span style="font-size:95%">In Proceedings of the 2024 ACM Web Conference. Resource paper. <em>Oral Presentation.</em> <a href="https://arxiv.org/abs/2403.06097" class="custom-button2">PDF</a> <a href="https://github.com/zhhvvv/CNER-UAV" class="custom-button2">Code</a></span></span>
+<span style="font-size:95%">In Proceedings of the 2024 ACM Web Conference. Resource paper. <em>Oral Presentation.</em> <a href="https://arxiv.org/abs/2403.06097" class="custom-button2">PDF</a> <a href="https://github.com/zhhvvv/CNER-UAV" class="custom-button2">Code</a></span>
 * <span class="custom-button">IEEE JSTSP</span><span style="color: DarkBlue;"> A Language Model-based Fine-Grained Address Resolution Framework in UAV Delivery System</span>\
 <span class="author"><span class="bold-black">Sichun Luo&#42;</span>, Yuxuan Yao&#42;, Haohan Zhao&#42;, Linqi Song.</span> \
 <span style="font-size:95%">In IEEE Journal of Selected Topics in Signal Processing. 2024.</span> <a href="https://ieeexplore.ieee.org/document/10490097" class="custom-button2">PDF</a>
