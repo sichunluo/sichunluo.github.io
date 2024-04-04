@@ -90,12 +90,13 @@ News
 Publications
 ======
 
+
 * <span class="custom-button">WWW'24</span><span style="color: DarkBlue;"> Can LLM Substitute Human Labeling? A Case Study of Fine-grained Chinese Address Entity Recognition Dataset for UAV Delivery</span>\
 <span class="author">Yuxuan Yao&#42;, <span class="bold-black">Sichun Luo&#42;</span>, Haohan Zhao&#42;, Guanzhi Deng, Linqi Song.</span> \
-<span style="font-size:95%">In Proceedings of the 2024 ACM Web Conference. Resource paper.</span>
+<span style="font-size:95%">In Proceedings of the 2024 ACM Web Conference. Resource paper. <em>Oral Presentation.</em> <a href="https://arxiv.org/abs/2403.06097" class="custom-button2">PDF</a> <a href="https://github.com/zhhvvv/CNER-UAV" class="custom-button2">Code</a></span></span>
 * <span class="custom-button">IEEE JSTSP</span><span style="color: DarkBlue;"> A Language Model-based Fine-Grained Address Resolution Framework in UAV Delivery System</span>\
 <span class="author"><span class="bold-black">Sichun Luo&#42;</span>, Yuxuan Yao&#42;, Haohan Zhao&#42;, Linqi Song.</span> \
-<span style="font-size:95%">In IEEE Journal of Selected Topics in Signal Processing. 2024.</span>
+<span style="font-size:95%">In IEEE Journal of Selected Topics in Signal Processing. 2024.</span> <a href="https://ieeexplore.ieee.org/document/10490097" class="custom-button2">PDF</a>
 * <span class="custom-button">ICLR'24</span><span style="color: DarkBlue;"> Solving challenging math word problems using gpt-4 code interpreter with code-based self-verification</span>\
 <span class="author">Aojun Zhou&#42;, Ke Wang&#42;, Zimu Lu&#42;, Weikang Shi&#42;, <span class="bold-black">Sichun Luo&#42;</span>, Zipeng Qin, Shaoqing Lu, Anya Jia, Linqi Song, Mingjie Zhan, Hongsheng Li.</span> \
 <span style="font-size:95%">In Proceedings of The Twelfth International Conference on Learning
@@ -106,7 +107,7 @@ Representations.</span> <span style="font-size:95%"><em>(Acceptance rate=31%)</e
 Representations.</span> <span style="font-size:95%"><em>(Acceptance rate=31%)</em></span> <a href="https://openreview.net/pdf?id=z8TW0ttBPp" class="custom-button2">PDF</a> <a href="https://github.com/mathllm/MathCoder" class="custom-button2">Code</a>
 * <span class="custom-button">ICASSP'24</span><span style="color: DarkBlue;"> Large Language Models Augmented Rating Prediction in Recommender System.</span>\
 <span style="color:DimGray; font-size:85%"><span style="color:black"><strong>Sichun Luo</strong></span>, Jiansheng Wang, Aojun Zhou, Li Ma, Linqi Song.</span> \
-<span style="font-size:95%">In Proceedings of the 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing.</span> <span style="font-size:95%"><em>Oral Presentation.</em></span> <a href="https://github.com/sichunluo/LAMAR" class="custom-button2">Code</a>
+<span style="font-size:95%">In Proceedings of the 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing.</span> <span style="font-size:95%"><em>Oral Presentation.</em></span> <a href="https://ieeexplore.ieee.org/abstract/document/10447514" class="custom-button2">PDF</a> <a href="https://github.com/sichunluo/LAMAR" class="custom-button2">Code</a>
 * <span class="custom-button">CIKM'23</span><span style="color: DarkBlue;"> Improving Long-Tail Item Recommendation with Graph Augmentation</span>\
 <span style="color:DimGray; font-size:85%"><span style="color:black"><strong>Sichun Luo</strong></span>, Chen Ma, Yuanzhang Xiao, and Linqi Song.</span> \
 <span style="font-size:95%">In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management.</span> <span style="font-size:95%"><em>(Acceptance rate=25%)</em></span> <a href="https://dl.acm.org/doi/abs/10.1145/3583780.3614929" class="custom-button2">PDF</a>
