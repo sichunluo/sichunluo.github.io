@@ -118,6 +118,7 @@ Representations.</span> <span style="font-size:95%"><em>(Acceptance rate=31%)</e
 <span style="color:DimGray; font-size:85%"><span style="color:black"><strong>Sichun Luo</strong></span>, Yuanzhang Xiao, and Linqi Song.</span>\
 <span style="font-size:95%">In Proceedings of the 31st ACM International Conference on Information and Knowledge Management. Short paper.</span> <a href="https://dl.acm.org/doi/abs/10.1145/3511808.3557668" class="custom-button2">PDF</a> <a href="https://github.com/sichunluo/PerFedRec" class="custom-button2">Code</a>
 
+&#42;Equal Contribution
 
 
 Experience
@@ -129,7 +130,7 @@ Experience
 
 Professional Service
 ======
-* Conference Reviewer: SIGIR'24, IJCAI’24, ICME'24
+* Conference Reviewer: MM'24, KDD'24, SIGIR'24, IJCAI’24, ICME'24
 * Journal Reviewer: TORS, EAAI, FI
 
 
