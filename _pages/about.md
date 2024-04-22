@@ -79,6 +79,7 @@ I am a year 3 PhD candidate in computer science at the City University of Hong K
 
 News
 ======
+* 04/2024, one paper is accepted by ACM TIST.
 * 03/2024, one paper is accepted by WWW 2024.
 * 02/2024, one paper is accepted by IEEE JSTSP.
 * 01/2024, two papers are accepted by ICLR 2024.
@@ -90,7 +91,9 @@ News
 Publications
 ======
 
-
+* <span class="custom-button">ACM TIST</span><span style="color: DarkBlue;"> PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training</span>\
+<span class="author"><span class="bold-black">Sichun Luo</span>, Yuanzhang Xiao, Xinyi Zhang, Yang Liu, Wenbo Ding, Linqi Song.</span> \
+<span style="font-size:95%">In ACM Transactions on Intelligent Systems and Technology. 2024.</span> <a href="https://arxiv.org/pdf/2305.06622.pdf" class="custom-button2">PDF</a> <a href="https://github.com/sichunluo/PerFedRec-Plus" class="custom-button2">Code</a></span>
 * <span class="custom-button">WWW'24</span><span style="color: DarkBlue;"> Can LLM Substitute Human Labeling? A Case Study of Fine-grained Chinese Address Entity Recognition Dataset for UAV Delivery</span>\
 <span class="author">Yuxuan Yao&#42;, <span class="bold-black">Sichun Luo&#42;</span>, Haohan Zhao&#42;, Guanzhi Deng, Linqi Song.</span> \
 <span style="font-size:95%">In Proceedings of the 2024 ACM Web Conference. Resource paper. <em>Oral Presentation.</em> <a href="https://arxiv.org/abs/2403.06097" class="custom-button2">PDF</a> <a href="https://github.com/zhhvvv/CNER-UAV" class="custom-button2">Code</a></span>
