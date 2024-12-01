@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a year 3 PhD candidate in computer science at the City University of Hong Kong under the supervision of Dr. Linqi Song, where I work on recommender systems and large language models. Prior to that, I obtained the BEng in Information Engineering and MSc in Computer Science from City University of Hong Kong in 2019 and 2020, respectively.
+I am a final year PhD candidate in computer science at the City University of Hong Kong under the supervision of Dr. Linqi Song, where I work on recommender systems and large language models. Prior to that, I obtained the BEng in Information Engineering and MSc in Computer Science from City University of Hong Kong in 2019 and 2020, respectively.
 
 [comment]: <> (This is the front page of a website that is powered by the [academicpages template]&#40;https://github.com/academicpages/academicpages.github.io&#41; and hosted on GitHub pages. [GitHub pages]&#40;https://pages.github.com&#41; is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme]&#40;https://mmistakes.github.io/minimal-mistakes/&#41; created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository]&#40;https://github.com/academicpages/academicpages.github.io&#41; right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com]&#40;http://stuartgeiger.com&#41;, which uses [this Github repository]&#40;https://github.com/staeiou/staeiou.github.io&#41;.)
 
@@ -79,6 +79,8 @@ I am a year 3 PhD candidate in computer science at the City University of Hong K
 
 News
 ======
+* 11/2024, one paper is accepted by ACM TOIS.
+* 04/2024, awarded two silver medals at the 49th International Exhibition of Inventions of Geneva (IEIG).
 * 04/2024, one paper is accepted by ACM TIST.
 * 03/2024, one paper is accepted by WWW 2024.
 * 02/2024, one paper is accepted by IEEE JSTSP.
@@ -91,6 +93,9 @@ News
 Publications
 ======
 
+* <span class="custom-button">ACM TOIS</span><span style="color: DarkBlue;"> RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation</span>\
+<span class="author"><span class="bold-black">Sichun Luo</span>, Bowei He, Haohan Zhao, Yinya Huang, Aojun Zhou, Zongpeng Li, Yuanzhang Xiao, Mingjie Zhan, Linqi Song.</span> \
+<span style="font-size:95%">In ACM Transactions on Information Systems. 2024.</span> <a href="https://arxiv.org/pdf/2312.16018v2" class="custom-button2">PDF</a> <a href="https://github.com/sichunluo/RecRanker" class="custom-button2">Code</a>
 * <span class="custom-button">ACM TIST</span><span style="color: DarkBlue;"> PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training</span>\
 <span class="author"><span class="bold-black">Sichun Luo</span>, Yuanzhang Xiao, Xinyi Zhang, Yang Liu, Wenbo Ding, Linqi Song.</span> \
 <span style="font-size:95%">In ACM Transactions on Intelligent Systems and Technology. 2024.</span> <a href="https://arxiv.org/pdf/2305.06622.pdf" class="custom-button2">PDF</a> <a href="https://github.com/sichunluo/PerFedRec-Plus" class="custom-button2">Code</a>
@@ -126,6 +131,7 @@ Representations.</span> <span style="font-size:95%"><em>(Acceptance rate=31%)</e
 
 Experience
 ======
+* Research Intern, Huawei 2012 Laboratories, Aug 2024 - Jan 2025
 * Research Intern, Sensetime Research, Jun 2023 - Dec 2023
 * Research Intern, Bytedance AI Lab, Jul 2022 - Nov 2022
 * Research Assistant, City University of Hong Kong, Oct 2020 - Apr 2021
@@ -133,8 +139,8 @@ Experience
 
 Professional Service
 ======
-* Conference Reviewer: MM'24, KDD'24, SIGIR'24, IJCAI’24, ICME'24
-* Journal Reviewer: TORS, EAAI, FI
+* Conference Reviewer: ICLR'24, MM'24, KDD'24, SIGIR'24, IJCAI’24, ICME'24
+* Journal Reviewer: TORS, TETC, EAAI, ESWA, DKE, FI
 
 
 
@@ -142,6 +148,7 @@ Professional Service
 
 Teaching Experience
 ======
+* Teaching Assistant, CS5481 Data Engineering (Postgraduate), City University of Hong Kong (Fall 2024)
 * Teaching Assistant, CS6493 Natural Language Processing (Postgraduate), City University of Hong Kong (Spring 2023, Spring 2024)
 * Teaching Assistant, CS1302 Introduction to Computer Programming (Undergraduate), City University of Hong Kong (Spring 2022)
 * Teaching Assistant, CS2066 IT Professions and Societies (Undergraduate), City University of Hong Kong (Fall 2021)
